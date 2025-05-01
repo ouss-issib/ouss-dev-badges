@@ -1,2 +1,2 @@
 # ouss-dev-badges
-hello word
+Pair Extraordinaire Badge done✅
