@@ -1,1 +1,1 @@
-console.log('first badge')
+console.log('Pair Extraordinary badge')
